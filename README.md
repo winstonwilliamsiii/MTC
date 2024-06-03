@@ -1,1 +1,1 @@
-Mosaic Tek Partners Training Repo
+Mosaic Tek Consultants Training Repo
